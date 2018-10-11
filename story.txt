@@ -1,0 +1,1 @@
+The "story.txt" file in hello-world project.
